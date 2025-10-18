@@ -1,1 +1,6 @@
-# Laba3
+[Task 13. py.py](https://github.com/user-attachments/files/22987146/Task.13.py.py)
+[Task 14. py.py](https://github.com/user-attachments/files/22987147/Task.14.py.py)
+[Task 18. py.py](https://github.com/user-attachments/files/22987151/Task.18.py.py)
+[Task 17. py.py](https://github.com/user-attachments/files/22987150/Task.17.py.py)
+[Task 16. py.py](https://github.com/user-attachments/files/22987149/Task.16.py.py)
+[Task 15. py.py](https://github.com/user-attachments/files/22987148/Task.15.py.py)
